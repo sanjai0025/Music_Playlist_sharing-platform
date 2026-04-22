@@ -1,0 +1,22 @@
+# React (Frontend)
+node_modules/
+build/
+dist/
+
+# Spring Boot (Backend)
+target/
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+secrets.env
+.env
